@@ -1,0 +1,10 @@
+name: NytoxDE LobbySystem
+version: '${project.version}'
+main: me.moontimer.lobbysystem.Main
+load: STARTUP
+authors: [ MoonTimer ]
+description: LobbySystem 4 NytoxDE
+website: https://moontimer.de
+commands:
+  set:
+
